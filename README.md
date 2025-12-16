@@ -2,4 +2,4 @@
 
 - 🐧 nix* enthusiast
 - 🚀 terminal-native workflow
-- ✍🏻 ~~Emacs~~ ➡️ Zellij + Broot + Helix
+- ✍🏻 ~~Emacs~~ ➡️ Zellij + Helix + Yazi + Lazygit
